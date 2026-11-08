@@ -1,0 +1,32 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Temporary files and logs
+*.log
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor-specific local files
+.vscode/
+.idea/
+
+# Soundtrack: the recording, lyrics and timeline ship with the site; calibration backups stay local
+soundtrack/*.partial.json
+
+# Images and visual references (may contain likenesses or third-party work, keep local)
+Visual/
+references/

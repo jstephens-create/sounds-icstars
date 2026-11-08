@@ -1,0 +1,535 @@
+{
+  "song": "Level Up.mp3",
+  "duration": 209.84,
+  "offset": 0,
+  "cues": [
+    {
+      "start": 0,
+      "section": "INTRO",
+      "line": "Yo, Chicago!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "INTRO",
+      "line": "Seventeen stories.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "INTRO",
+      "line": "Seventeen dreams.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "INTRO",
+      "line": "One crazy team.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "INTRO",
+      "line": "SQL? Check.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "INTRO",
+      "line": "GitHub? Check.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "INTRO",
+      "line": "Deadlines? ... Don't ask!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "INTRO",
+      "line": "I.C. STARS!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "INTRO",
+      "line": "LET'S GO!",
+      "who": "group"
+    },
+    {
+      "start": 27.71,
+      "section": "VERSE 1",
+      "line": "Andre got the Nikes, fresh kicks on the floor,",
+      "who": "andre-woolfolk"
+    },
+    {
+      "start": null,
+      "section": "VERSE 1",
+      "line": "Forty pairs deep, still collecting more!",
+      "who": "andre-woolfolk"
+    },
+    {
+      "start": 30.5,
+      "section": "VERSE 1",
+      "line": "Andrew on the drums, got the rhythm on lock,",
+      "who": "andrew-thomas"
+    },
+    {
+      "start": null,
+      "section": "VERSE 1",
+      "line": "Future SOC analyst, watching every clock!",
+      "who": "andrew-thomas"
+    },
+    {
+      "start": 34.6,
+      "section": "VERSE 1",
+      "line": "Ben made deals, now he's chasing that data,",
+      "who": "ben-coppage"
+    },
+    {
+      "start": null,
+      "section": "VERSE 1",
+      "line": "Georgia Tech dreams, see you later, hater!",
+      "who": "ben-coppage"
+    },
+    {
+      "start": 39.19,
+      "section": "VERSE 1",
+      "line": "Briana from fintech, got creative ambition,",
+      "who": "briana-heredia"
+    },
+    {
+      "start": null,
+      "section": "VERSE 1",
+      "line": "Tech and freedom — that's her mission!",
+      "who": "briana-heredia"
+    },
+    {
+      "start": 43.29,
+      "section": "VERSE 1",
+      "line": "CJ got jokes, got the whole room laughing,",
+      "who": "cj-daniels"
+    },
+    {
+      "start": null,
+      "section": "VERSE 1",
+      "line": "New York penthouse? Yeah, he's manifesting!",
+      "who": "cj-daniels"
+    },
+    {
+      "start": 46.89,
+      "section": "VERSE 1",
+      "line": "Faiza switched lanes, nurse to AI,",
+      "who": "faiza-baloch"
+    },
+    {
+      "start": null,
+      "section": "VERSE 1",
+      "line": "Cybersecurity goals, she's aiming sky-high!",
+      "who": "faiza-baloch"
+    },
+    {
+      "start": 51.46,
+      "section": "PRE-CHORUS",
+      "line": "Different pasts.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "PRE-CHORUS",
+      "line": "Different plans.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "PRE-CHORUS",
+      "line": "Same room.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "PRE-CHORUS",
+      "line": "Same chance.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "PRE-CHORUS",
+      "line": "Three... Two... One...",
+      "who": "group"
+    },
+    {
+      "start": 57.79,
+      "section": "CHORUS",
+      "line": "LEVEL UP! LEVEL UP!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "CHORUS",
+      "line": "I.C. STARS, WE DON'T STOP!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "CHORUS",
+      "line": "Hands up high, let the whole room know,",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "CHORUS",
+      "line": "Started from scratch, now we're running the show!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "CHORUS",
+      "line": "LEVEL UP! LEVEL UP!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "CHORUS",
+      "line": "Turn that pressure into POWER!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "CHORUS",
+      "line": "Seventeen dreams and we're going so far,",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "CHORUS",
+      "line": "WHO ARE WE?",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "CHORUS",
+      "line": "I.C. STARS!",
+      "who": "group"
+    },
+    {
+      "start": 74.27,
+      "section": "VERSE 2",
+      "line": "Freeda got leadership, making moves for the people,",
+      "who": "freeda-garcia"
+    },
+    {
+      "start": null,
+      "section": "VERSE 2",
+      "line": "Big dreams, big heart, taking it to the next level!",
+      "who": "freeda-garcia"
+    },
+    {
+      "start": 78.3,
+      "section": "VERSE 2",
+      "line": "Hannah got books, now she's coding the future,",
+      "who": "hannah-zeigler"
+    },
+    {
+      "start": null,
+      "section": "VERSE 2",
+      "line": "Saving information, making access smoother!",
+      "who": "hannah-zeigler"
+    },
+    {
+      "start": 82.26,
+      "section": "VERSE 2",
+      "line": "John got Godzilla, monster-sized plans,",
+      "who": "john-sachez"
+    },
+    {
+      "start": null,
+      "section": "VERSE 2",
+      "line": "Freelance tech career, putting skills in his hands!",
+      "who": "john-sachez"
+    },
+    {
+      "start": 85.23,
+      "section": "VERSE 2",
+      "line": "Jordan built computers, blueprints on the table,",
+      "who": "jordan-stephens"
+    },
+    {
+      "start": null,
+      "section": "VERSE 2",
+      "line": "Data architecture — yeah, he's more than capable!",
+      "who": "jordan-stephens"
+    },
+    {
+      "start": 89.15,
+      "section": "VERSE 2",
+      "line": "KV got motion, graphics on the screen,",
+      "who": "kamouyon-vinson"
+    },
+    {
+      "start": null,
+      "section": "VERSE 2",
+      "line": "Full-stack future, building up the dream!",
+      "who": "kamouyon-vinson"
+    },
+    {
+      "start": 92.53,
+      "section": "VERSE 2",
+      "line": "Mariia never gamed, but she's playing to win,",
+      "who": "mariia-kit"
+    },
+    {
+      "start": null,
+      "section": "VERSE 2",
+      "line": "Cloud engineer loading — let the journey begin!",
+      "who": "mariia-kit"
+    },
+    {
+      "start": 96.38,
+      "section": "CHORUS",
+      "line": "LEVEL UP! LEVEL UP!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "CHORUS",
+      "line": "I.C. STARS, WE DON'T STOP!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "CHORUS",
+      "line": "Hands up high, let the whole room know,",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "CHORUS",
+      "line": "Started from scratch, now we're running the show!",
+      "who": "group"
+    },
+    {
+      "start": 110.77,
+      "section": "VERSE 3",
+      "line": "Myia got anime, business on the rise,",
+      "who": "myia-mack"
+    },
+    {
+      "start": null,
+      "section": "VERSE 3",
+      "line": "House of Nova shining, got that vision in her eyes!",
+      "who": "myia-mack"
+    },
+    {
+      "start": 114.4,
+      "section": "VERSE 3",
+      "line": "Myles got the movie mind, frames in motion,",
+      "who": "myles-lee"
+    },
+    {
+      "start": null,
+      "section": "VERSE 3",
+      "line": "Data and development, full devotion!",
+      "who": "myles-lee"
+    },
+    {
+      "start": 118.18,
+      "section": "VERSE 3",
+      "line": "Tamara building skills, making her own way,",
+      "who": null
+    },
+    {
+      "start": null,
+      "section": "VERSE 3",
+      "line": "Tech is opening doors to a brand-new day!",
+      "who": null
+    },
+    {
+      "start": 121.28,
+      "section": "VERSE 3",
+      "line": "Olesia got ideas, bringing people together,",
+      "who": "olesia-dmytrush"
+    },
+    {
+      "start": null,
+      "section": "VERSE 3",
+      "line": "From real estate to tech, getting better and better!",
+      "who": "olesia-dmytrush"
+    },
+    {
+      "start": 125.3,
+      "section": "VERSE 3",
+      "line": "Raymond sold houses, now he's writing code,",
+      "who": "raymond-hall"
+    },
+    {
+      "start": null,
+      "section": "VERSE 3",
+      "line": "New career, new chapter, brand-new road!",
+      "who": "raymond-hall"
+    },
+    {
+      "start": 129.36,
+      "section": "BREAKDOWN",
+      "line": "Wait...",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "BREAKDOWN",
+      "line": "Who said SQL was easy?",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "BREAKDOWN",
+      "line": "WHO?!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "BREAKDOWN",
+      "line": "And GitHub merge conflicts?",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "BREAKDOWN",
+      "line": "Nah, we don't talk about those!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "BREAKDOWN",
+      "line": "But look at us now...",
+      "who": "group"
+    },
+    {
+      "start": 141.28,
+      "section": "FINAL VERSE",
+      "line": "We came from different places, different lives,",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "FINAL VERSE",
+      "line": "Some took chances, some survived.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "FINAL VERSE",
+      "line": "Didn't know each other, didn't know the way,",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "FINAL VERSE",
+      "line": "Now we're building something bigger every day.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "FINAL VERSE",
+      "line": "When the code won't run, when the pressure gets real,",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "FINAL VERSE",
+      "line": "We know what determination feels like.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "FINAL VERSE",
+      "line": "One day we'll be working in different places,",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "FINAL VERSE",
+      "line": "But we'll never forget these familiar faces.",
+      "who": "group"
+    },
+    {
+      "start": 159.13,
+      "section": "FINAL CHORUS",
+      "line": "LEVEL UP! LEVEL UP!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "FINAL CHORUS",
+      "line": "I.C. STARS, WE DON'T STOP!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "FINAL CHORUS",
+      "line": "From the classroom to the world, here we are,",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "FINAL CHORUS",
+      "line": "Seventeen stories, ONE BIG STAR!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "FINAL CHORUS",
+      "line": "LEVEL UP! LEVEL UP!",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "FINAL CHORUS",
+      "line": "THIS IS OUR TIME, WE'RE GOING UP!",
+      "who": "group"
+    },
+    {
+      "start": 183.23,
+      "section": "OUTRO",
+      "line": "Seventeen stories.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "OUTRO",
+      "line": "One unforgettable chapter.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "OUTRO",
+      "line": "We came here to learn technology...",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "OUTRO",
+      "line": "But we found something bigger.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "OUTRO",
+      "line": "We found each other.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "OUTRO",
+      "line": "I.C. STARS.",
+      "who": "group"
+    },
+    {
+      "start": null,
+      "section": "OUTRO",
+      "line": "FOREVER.",
+      "who": "group"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "human-systems-060",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build --base=/sounds-icstars/",
+    "preview": "vite preview",
+    "check": "tsc",
+    "test": "node --test \"src/**/*.test.ts\"",
+    "check:timeline": "node scripts/check-timeline.ts",
+    "build:timeline": "node scripts/build-timeline.ts"
+  },
+  "devDependencies": {
+    "typescript": "7.0.2",
+    "vite": "8.3.5"
+  }
+}

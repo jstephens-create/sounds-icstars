@@ -30,3 +30,9 @@ soundtrack/*.partial.json
 # Images and visual references (may contain likenesses or third-party work, keep local)
 Visual/
 references/
+
+# Claude Code local files (personal session data and settings)
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
